@@ -6,7 +6,7 @@ var iconv = require('iconv-lite');
 var dirTree = require('directory-tree');
 
 
-var pDir = '/media/sackso/1T_400G/LV1_work/30.jwfreenote/jwfreenote/BookData/Project/90.개인사';
+var pDir = '/media/sackso/1T_400G/LV1_work/30.jwfreenote/jwfreenote/BookData';
 
 fnFindDirList(pDir);
 
